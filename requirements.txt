@@ -1,0 +1,23 @@
+ipykernel
+# Core
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# Transformers for tokenizers (optional)
+transformers>=4.40.0
+
+# Data handling
+pandas>=2.1.0
+numpy>=1.25.0
+
+# Utilities
+tqdm>=4.66.0
+
+
+
+# Optional for text preprocessing
+nltk>=3.9.0
+
+
+huggingface_hub
